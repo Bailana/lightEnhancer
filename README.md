@@ -16,7 +16,7 @@ Fitur
 Untuk menjalankan aplikasi ini, Anda harus memiliki MATLAB terinstal di sistem Anda. Kode ini dikembangkan dan diuji dengan MATLAB R2023a, tetapi seharusnya kompatibel dengan versi terbaru yang mendukung uifigure dan komponen App Designer terkait.
 
 Cara instalasi : 
-1. Kloning repositori: git clone https://github.com/Bailana/simple-low-light-enhancer.git
+1. Kloning repositori: git clone https://github.com/Bailana/lightEnhancer.git
 
 2. Masuk ke direktori proyek: cd simple-low-light-enhancer
 
